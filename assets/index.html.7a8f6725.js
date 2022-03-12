@@ -1,0 +1,1 @@
+const e={key:"v-14e6315a",path:"/life/",title:"my life ?",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:164698563e4,contributors:[{name:"heshimang",email:"hsm15031585502@163.com",commits:1}]},filePathRelative:"life/index.md"};export{e as data};
